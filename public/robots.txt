@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.onserviceit.com/sitemap.xml
+Sitemap: https://project-7-ruby.vercel.app/sitemap.xml
